@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle TypeScript error involving type mismatches.  Specifically, it highlights the challenge of debugging when an array is passed to a function expecting a string.  The included solution shows how to correctly handle such situations using type guards or type assertions.
